@@ -7,6 +7,9 @@ function castKeyValues(o) {
     if(isStringBoolean(data[key])) {
       data[key] = stringToBoolean(data[key]);
     }
+    if(data[key] === 'null') {
+      data[key] = null;
+    }
   });
   return data;
 }
