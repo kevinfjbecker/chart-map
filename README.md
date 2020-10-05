@@ -17,3 +17,8 @@ A note on scope: series generation from HTML is not a part of the scope of this 
 
 [Highcharts Demos](https://www.highcharts.com/demo/line-basic)  
 [Side-by-side JSBin](https://output.jsbin.com/mulebim/latest)
+
+### Basic Pie
+
+[Highcharts Demos](https://www.highcharts.com/demo/pie-basic)  
+[Side-by-side JSBin](https://output.jsbin.com/nebebis)
