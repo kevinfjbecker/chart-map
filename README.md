@@ -22,3 +22,10 @@ A note on scope: series generation from HTML is not a part of the scope of this 
 
 [Highcharts Demos](https://www.highcharts.com/demo/pie-basic)  
 [Side-by-side JSBin](https://output.jsbin.com/nebebis)
+
+### Basic Area
+
+[Highcharts Demos](https://www.highcharts.com/demo/area-basic)  
+[Side-by-side JSBin](https://output.jsbin.com/genodod)
+
+NB: the side-by-side bin is simplified
