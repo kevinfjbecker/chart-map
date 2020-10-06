@@ -29,3 +29,10 @@ A note on scope: series generation from HTML is not a part of the scope of this 
 [Side-by-side JSBin](https://output.jsbin.com/genodod)
 
 NB: the basic area side-by-side bin is simplified
+
+### Stacked Bar
+
+[Highcharts Demos](https://www.highcharts.com/demo/bar-stacked)  
+[Side-by-side JSBin](https://output.jsbin.com/xajekav)
+
+NB: the categories and series are encoded as data attributes in the stacked bar side-by-side
